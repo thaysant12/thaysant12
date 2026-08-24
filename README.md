@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
+</div>
+
 <p align="center">
   <img
     width="540"
@@ -7,21 +11,26 @@
   />
 </p>
 
-<h2>🚀 Sobre mim</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thays+Antonia;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas, com conclusão prevista para setembro de 2026
-- 💼 Estagiária de Suporte Técnico na Afya | Unigranrio
-- 🌱 Ampliando meus conhecimentos em Java, Spring Boot, React e .NET
-- 💡 Interesse em Desenvolvimento Full Stack, com maior afinidade por Front-end
+ <div align="center">
 
-## 🛠️ Tecnologias
+### Full Stack Developer • Python • JavaScript • React
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-20232A?style=flat&logoColorimg src="https://img.shields.io/badge/CSS3-20232A?style=flat=white
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=flat&white
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&white
-  <img src="https://img.shields.io/badge/Java-20232A?style=flat&logoColor=mg src="https://img.shields.io/badgeBoot-20232A?style=flat&logoColor=white
-  <img src="https://img.shieldsNode.js-20232A?style=flat&logoColor=white
-  <img src="https://img.shields.io/badge2A?style=flat&logoColor=white
-  <img src="https://img.shields.io/badge/Python-20232At&logoColor=white
-</p>
+[![Python](https://img.shields.io/badge/Python-11111b?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-11111b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-11111b?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Rust](https://img.shields.io/badge/Rust-11111b?style=for-the-badge&logo=rust&logoColor=DEA584)](https://www.rust-lang.org/)
+
+</div>
+
+<div align="center">
+<a href="[https://www.linkedin.com/in/seuusuario/](https://www.linkedin.com/in/thays-antonia-cruz/)" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</div>
+
+
+<div align="center">
+  <img width=80% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
+</div>
