@@ -4,14 +4,16 @@
 
 <p align="center">
   <img
-    width="540"
-    height="304"
+    width="640"
+    height="390"
     alt="Oii, eu sou a Thays"
     src="https://github.com/user-attachments/assets/540918ef-25ae-4202-bc07-a48d5925b4ba"
   />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thays+Antonia;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=30&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?+Eu+me+chamo+Thays;Eu+sou+uma+dev+fullstack+em+formação;Além+de+tudo,+sou+apaixonada+por+jogos,+filmes+e+música;Seja+bem+vindo+ou+bem+vinda+ao+meu+perfil!;%29)](https://git.io/typing-svg) 
+
+---
 
  <div align="center">
 
@@ -30,11 +32,15 @@
 </a>
 </div>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaysant12/thaysant12/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thaysant12/thaysant12/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thaysant12/thaysant12/output/pacman-contribution-graph.svg">
 </picture>
+
+---
 
 <div align="center">
   <img width=80% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
